@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cervical-spine-fracture-detection"
+  site-url: "https://amaarora.github.io/cervical-spine-fracture-detection"
+  description: "Cervical Spine Fracture Detection using AI."
+  repo-branch: main
+  repo-url: "https://github.com/amaarora/cervical-spine-fracture-detection"
